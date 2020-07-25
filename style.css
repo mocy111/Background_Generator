@@ -1,0 +1,14 @@
+body 
+{
+    font-family:'papyrus',cursive;
+    color: indigo;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    top: 10%;
+    background: linear-gradient(to right,purple,pink);
+}
+h1,h2{
+    font-family: "fantasy",cursive;
+    color: white;
+}
