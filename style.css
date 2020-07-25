@@ -1,12 +1,12 @@
 body 
 {
     font-family:'papyrus',cursive;
-    color: indigo;
+    color: rgb(54, 51, 56);
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 0.5em;
     top: 10%;
-    background: linear-gradient(to right,purple,pink);
+    background: linear-gradient(to right,rgb(113, 187, 234),rgb(196, 196, 232));
 }
 h1,h2{
     font-family: "fantasy",cursive;
